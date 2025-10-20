@@ -3,19 +3,16 @@ This repository contains census and lead sample data, interactive mpas, GIS data
 
 Cite Us
 -------
-
-To cite MILPNet, please use the following publication: `A Mixed-Integer Linear Programming Framework for Optimization of Water Network Operations Problems`_
-
-.. _`A Mixed-Integer Linear Programming Framework for Optimization of Water Network Operations Problems`: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR034526
-
 ::
 
-    @article{title={A Mixed-Integer Linear Programming Framework for Optimization of Water Network Operations Problems},
-             author={Thomas, Meghna and Sela, Lina},
-             journal={Water Resources Research},
-             volume={60},
-             number={2},
-             pages={e2023WR034526},
-             year={2024},
-             publisher={Wiley Online Library}
-             }
+    @article{FRANKEL2025127657,
+title = {Multi-objective optimization framework for prioritizing lead service line replacement in water distribution systems},
+journal = {Journal of Environmental Management},
+volume = {394},
+pages = {127657},
+year = {2025},
+issn = {0301-4797},
+doi = {https://doi.org/10.1016/j.jenvman.2025.127657},
+url = {https://www.sciencedirect.com/science/article/pii/S0301479725036333},
+author = {Matthew Frankel and Ahmed A. Abokifa and Lina Sela},
+}
