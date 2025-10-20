@@ -3,8 +3,6 @@ This repository contains census and lead sample data, interactive mpas, GIS data
 
 Cite Us
 -------
-::
-
     @article{FRANKEL2025127657,
     title = {Multi-objective optimization framework for prioritizing lead service line replacement in water distribution systems},
     journal = {Journal of Environmental Management},
