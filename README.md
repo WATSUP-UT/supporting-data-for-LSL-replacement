@@ -1,5 +1,5 @@
 # Lead service line supporting data
-This repository contains census and lead sample data, interactive mpas, GIS data, and example optimization code associated with the manuscript `Multi-Objective Optimization Framework for Prioritizing Lead Service Line Replacement in Water Distribution Systems` submitted for review. 
+This repository contains census and lead sample data, interactive mpas, GIS data, and example optimization code associated with the manuscript `Multi-Objective Optimization Framework for Prioritizing Lead Service Line Replacement in Water Distribution Systems`. 
 
 Cite Us
 -------
